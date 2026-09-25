@@ -1,6 +1,6 @@
 # Awesome-Field-Service-Scheduling
 
-# Top Field Service Scheduling Platforms Ecosystem
+## Top Field Service Scheduling Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Appointment Booking, Dispatch, Route Optimization, Technician Capacity & Mobile Job Scheduling*
 **Last updated: September 2026**
