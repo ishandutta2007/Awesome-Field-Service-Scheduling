@@ -1,107 +1,135 @@
-# Awesome-Field-Service-Scheduling
+# 🗓️ Awesome Field Service Scheduling 🚀
 
-## Top Field Service Scheduling Platforms Ecosystem
-**Curated List of SaaS Products & Open-Source GitHub Projects**
-*Focused on Appointment Booking, Dispatch, Route Optimization, Technician Capacity & Mobile Job Scheduling*
-**Last updated: September 2026**
+![Awesome Field Service Scheduling Banner](./assets/banner.svg)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Field Service Scheduling**. These systems help service companies book jobs, assign technicians, optimize routes and capacity, and keep field teams on schedule with mobile updates.
-
-**Examples** include Jobber, Housecall Pro, ServiceTitan, Zuper, Skedulo, Service Fusion, FieldPulse, Commusoft, Kickserv, and ReachOut (the category leaders).
-
-**Open-source emphasis**: Polished commercial scheduling and dispatch platforms dominate the market. The strongest open options remain **Odoo Community + OCA Field Service** modules and **ERPNext**-based field-service apps. This section expands those open resources and is realistic about advanced optimization and mobile UX gaps.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## SaaS/Hosted Platforms
-- **[Jobber](https://getjobber.com/)**  
-  Leading SMB field service platform with strong online booking, scheduling, dispatch, and mobile job management for home-service businesses.
-
-- **[Housecall Pro](https://www.housecallpro.com/)**  
-  Popular home-services operating system covering intelligent scheduling, dispatch, payments, and field execution for trades contractors.
-
-- **[ServiceTitan](https://www.servicetitan.com/)**  
-  Enterprise operating system for specialty contractors with advanced dispatch, capacity planning, and full service workflow control.
-
-- **[Zuper](https://www.zuper.com/)**  
-  Modern field service management platform featuring intelligent scheduling, route optimization, and mobile job execution.
-
-- **[Skedulo](https://www.skedulo.com/)**  
-  Cloud workforce scheduling and field service platform with constraint-based scheduling engines and strong mid-market adoption.
-
-- **[Service Fusion](https://www.servicefusion.com/)**  
-  Field service software focused on scheduling, dispatch, invoicing, and mobile workforce tools for service companies.
-
-- **[FieldPulse](https://www.fieldpulse.com/)**  
-  Field service platform for small-to-mid-size companies covering jobs, estimates, scheduling, and mobile teams.
-
-- **[Commusoft](https://www.commusoft.co.uk/)**  
-  Field service management software popular in the UK and Europe for scheduling, job management, and mobile engineers.
-
-- **[Kickserv](https://www.kickserv.com/)**  
-  Simple, affordable field service scheduling and job-management software aimed at small service businesses.
-
-- **[ReachOut](https://www.reachoutfs.com/)**  
-  Field service management solution for scheduling, dispatch, and mobile workforce visibility.
-
-## Open-Source GitHub Projects
-- **[OCA Field Service (Odoo)](https://github.com/OCA/field-service)**  
-  Leading open-source field service modules for Odoo Community—orders, workers, routes, availability, skills, vehicles, and related scheduling workflows (AGPL).
-
-- **[ERPNext / Frappe Field Service apps (SwiftService, Beveren FSM, etc.)](https://github.com/frappe/erpnext)**  
-  Open-source ERPNext extensions for service requests, engineer dispatch, visit planning, GPS check-in, and job lifecycle management.
-
-- **[Odoo Project + Field Service community add-ons](https://github.com/odoo/odoo)**  
-  Core and community modules that combine projects, tasks, calendar, and field service capabilities inside Odoo.
-
-- **[Open scheduling and calendar libraries](https://github.com/)**  
-  Community calendar, resource, and appointment libraries that can underpin custom dispatch systems.
-
-- **[Route optimization open engines](https://github.com/)**  
-  Open vehicle-routing and optimization libraries usable for basic route planning alongside open FSM tools.
-
-- **[Mobile forms and offline open collectors](https://github.com/)**  
-  Self-hosted form and offline-first tools for capturing job status, photos, and signatures from the field.
-
-- **[GPS and location open tracking backends](https://github.com/)**  
-  Community location services that support technician visibility and check-in/out.
-
-- **[Work-order and ticket open systems](https://github.com/)**  
-  Lightweight open work-order tools adaptable for simple service scheduling.
-
-- **[Capacity and availability open models](https://github.com/)**  
-  Simple open components for tracking technician skills, working hours, and blackout periods.
-
-- **[Documentation and FSM scheduling open playbooks](https://github.com/)**  
-  Guides for configuring Odoo/ERPNext field-service stacks and adapting open tools to service operations.
-
-### Additional Strong Open-Source Options
-- Deploying **Odoo Community + OCA Field Service** when you need real scheduling, routes, and job workflows integrated with CRM and inventory.
-- Using **ERPNext**-based field-service apps for request-to-dispatch-to-closure processes inside an open ERP.
-- Combining open calendars, forms, and basic routing for smaller teams with limited budgets.
-- Accepting that polished mobile apps, AI-assisted dispatch, real-time optimization, customer booking portals, and vertical-specific features still favor commercial platforms (Jobber, Housecall Pro, ServiceTitan, Zuper, Skedulo, etc.).
-- Focusing open-source efforts on data ownership, ERP integration, and lower total cost for mid-size service organizations with technical capacity.
-
-**Frameworks for building custom systems**: Manage customers and jobs in an open ERP (Odoo/ERPNext) → schedule technicians with OCA or ERPNext FSM modules → equip field teams with mobile-friendly forms and GPS check-in → optionally layer open routing libraries for route suggestions. Suitable for organizations willing to invest in configuration. Many growth-stage and larger service companies still choose commercial scheduling platforms for speed of adoption and mobile experience.
-
-## How to Contribute
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Field service scheduling systems handle customer, location, and operational data. Proper security, privacy, and process controls are required. This list is not operational or legal advice.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Field-Service-Scheduling"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Field-Service-Scheduling?style=flat-square" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Field-Service-Scheduling/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Field-Service-Scheduling?style=flat-square" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Field-Service-Scheduling/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Field-Service-Scheduling?style=flat-square" alt="GitHub issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Field-Service-Scheduling/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Field-Service-Scheduling?style=flat-square" alt="License" /></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
-**Made for field service leaders, dispatchers, and open-source ERP advocates.**
-Let's keep jobs scheduled, teams productive, and systems as open as practical.
+
+## 🌟 Top Field Service Scheduling & Dispatch Ecosystem 🚚
+
+> **A curated, SEO-optimized list of top SaaS platforms, open-source GitHub projects, vehicle routing engines, and technician dispatch tools.**  
+> *Focused on Appointment Booking, Dynamic Dispatch, Route Optimization, Technician Capacity Planning & Mobile Job Scheduling.*  
+> **📅 Last updated: September 2026**
+
+This repository tracks leading **SaaS platforms** and **open-source software** for **Field Service Scheduling (FSM)**. These intelligent systems empower commercial trade contractors, HVAC engineers, plumbers, electricians, and enterprise field fleets to automate job booking, assign technicians based on skills and capacity, optimize delivery and travel routes, and maintain real-time field workforce visibility. 🛠️⚡
+
+---
+
+## 📑 Table of Contents
+- [🏢 Market Overview & Size](#-market-overview--size)
+- [💼 SaaS & Hosted FSM Platforms](#-saas--hosted-fsm-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#-disclaimer)
+
+---
+
+## 🏢 Market Overview & Size 📊
+
+> 💡 **Market Size & Structure**: The global Field Service Management (FSM) and scheduling software market is estimated at **$4.5 Billion – $5.2 Billion** (2025–2026) and is projected to reach over **$9.5 Billion** by 2030 at a CAGR of ~11.8%. The market is **moderately fragmented**—while commercial giants like ServiceTitan dominate high-end specialty contracting and Jobber/Housecall Pro lead SMB trades, hundreds of vertical-specific SaaS solutions and open-source ERP integrations exist to capture specialized market niches.
+
+---
+
+## 💼 SaaS & Hosted FSM Platforms ☁️
+
+Below is a comparison of top field service scheduling platforms, ranked by estimated company valuation / revenue scale:
+
+| 🏢 Platform | 💰 Valuation / Revenue Scale | 🏷️ Starting Pricing | 🎁 Free Tier / Trial Limits | 📌 Key Scheduling & Dispatch Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **[ServiceTitan](https://www.servicetitan.com/)** 🚀 | **~$9.5B Valuation** ($600M+ ARR) | $300/month (Custom quote per tech) | 14-Day Free Demo (No free perpetual tier) | Enterprise scheduling, capacity planning, intelligent dispatch, full trade operating system. |
+| **[Housecall Pro](https://www.housecallpro.com/)** 🏠 | **~$1.4B Valuation** ($100M+ ARR) | $49/month (Basic plan) | 14-Day Free Trial (No free perpetual tier) | Home-services operating system, visual drag-and-drop scheduling, dispatching, automated SMS alerts. |
+| **[Jobber](https://getjobber.com/)** 🛠️ | **~$800M Valuation** ($100M+ ARR) | $39/month (Core plan) | 14-Day Free Trial (No free perpetual tier) | Leading SMB platform, online booking, map-based route scheduling, mobile job dispatching. |
+| **[Skedulo](https://www.skedulo.com/)** 📅 | **~$400M Valuation** ($40M+ ARR) | $79/user/month | 14-Day Free Demo (No free perpetual tier) | Constraint-based engine, complex workforce scheduling, real-time mid-market dispatch. |
+| **[Zuper](https://www.zuper.com/)** ⚡ | **~$150M Valuation** ($15M+ ARR) | $20/user/month | 14-Day Free Trial (No free perpetual tier) | Flexible intelligent scheduling, AI route optimization, dynamic work-order management. |
+| **[Service Fusion](https://www.servicefusion.com/)** 🔌 | **~$100M Valuation** ($25M+ ARR) | $166/month (Starter plan) | 14-Day Free Demo (No free perpetual tier) | Unlimited users flat pricing, drag-and-drop dispatch, GPS fleet tracking, invoicing. |
+| **[Commusoft](https://www.commusoft.co.uk/)** 🇬🇧 | **~$50M Valuation** ($12M+ ARR) | $29/user/month | 14-Day Free Trial (No free perpetual tier) | UK & European leader, travel-time optimization, real-time engineer tracking, job scheduling. |
+| **[FieldPulse](https://www.fieldpulse.com/)** 📲 | **~$40M Valuation** ($8M+ ARR) | $99/month (Includes 2 users) | 7-Day Free Trial (No free perpetual tier) | Full-service SMB platform, technician location tracking, schedule status boards. |
+| **[Kickserv](https://www.kickserv.com/)** 📋 | **~$20M Valuation** ($5M+ ARR) | $47/month (Starter plan) | **Free Forever Plan** (Up to 2 users, basic scheduling) | Simple scheduling, job management, customer portal, contractor dispatcher. |
+| **[ReachOut](https://www.reachoutfs.com/)** 🗺️ | **~$10M Valuation** ($2M+ ARR) | $10/user/month | **Free Forever Plan** (Up to 3 users, core dispatching) | Affordable FSM solution, mobile form inspection, status visibility, map scheduling. |
+
+---
+
+## 🔓 Open-Source GitHub Projects 📦
+
+Community open-source projects, vehicle routing engines, and ERP extensions for building self-hosted dispatch and field scheduling solutions. *Ranked by GitHub Star Count (Descending)*:
+
+- **[odoo/odoo](https://github.com/odoo/odoo)** [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) 🌟  
+  Core open-source ERP framework combining project management, field service tasks, calendar scheduling, and resource allocation inside Odoo Community.
+
+- **[frappe/erpnext](https://github.com/frappe/erpnext)** [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) 🌟  
+  Open-source enterprise ERP with extensions for technician dispatch, service request management, engineer visit planning, and GPS check-ins.
+
+- **[google/or-tools](https://github.com/google/or-tools)** [![Stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers) 🌟  
+  Google's fast software suite for combinatorial optimization, vehicle routing problems (VRP), technician capacity planning, and job shop scheduling algorithms.
+
+- **[traccar/traccar](https://github.com/traccar/traccar)** [![Stars](https://img.shields.io/github/stars/traccar/traccar?style=social&color=white)](https://github.com/traccar/traccar/stargazers) 🌟  
+  Leading open-source GPS tracking system supporting real-time vehicle monitoring, engineer location history, and geofencing for field service fleets.
+
+- **[graphhopper/graphhopper](https://github.com/graphhopper/graphhopper)** [![Stars](https://img.shields.io/github/stars/graphhopper/graphhopper?style=social&color=white)](https://github.com/graphhopper/graphhopper/stargazers) 🌟  
+  Fast open-source road routing engine written in Java; ideal for calculating distance matrices and optimizing technician travel routes.
+
+- **[TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver)** [![Stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver/stargazers) 🌟  
+  Open-source AI solver (fork of OptaPlanner) for optimizing field technician schedules, shift rosters, appointment slots, and multi-vehicle routing problems.
+
+- **[Vroom-Project/vroom](https://github.com/Vroom-Project/vroom)** [![Stars](https://img.shields.io/github/stars/Vroom-Project/vroom?style=social&color=white)](https://github.com/Vroom-Project/vroom/stargazers) 🌟  
+  High-performance open-source Vehicle Routing Problem (VRP) optimization engine in C++ designed to solve complex multi-vehicle field dispatch schedules.
+
+- **[pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)** [![Stars](https://img.shields.io/github/stars/pgRouting/pgrouting?style=social&color=white)](https://github.com/pgRouting/pgrouting/stargazers) 🌟  
+  PostGIS extension providing geospatial routing functionality (TSP, Dijkstra, A*) directly inside PostgreSQL databases for field dispatch backends.
+
+- **[OCA/field-service](https://github.com/OCA/field-service)** [![Stars](https://img.shields.io/github/stars/OCA/field-service?style=social&color=white)](https://github.com/OCA/field-service/stargazers) 🌟  
+  Leading open-source Odoo Community Association (OCA) field service suite—manages work orders, technicians, routes, equipment skills, and scheduling.
+
+---
+
+### 💡 Open-Source Architecture Playbook 🏗️
+1. **ERP & Work Orders**: Manage customer accounts, inventory, and job tickets in **Odoo** or **ERPNext**.
+2. **Scheduling Modules**: Utilize **OCA Field Service** modules for job dispatch, worker skills, and calendar management.
+3. **Route & Shift Optimization**: Integrate **Google OR-Tools**, **Timefold**, or **VROOM** to solve Travelling Salesperson Problems (TSP) and minimize driving mileage.
+4. **GPS & Telematics Tracking**: Track field technician vehicles in real-time using **Traccar**.
+
+---
+
+## 🤝 How to Contribute 📝
+1. **Fork** the repository 🍴
+2. **Create** a branch for your update (`git checkout -b feature/new-fsm-tool`) 🌿
+3. **Add/Edit** entries in `README.md` following the tabular & star format 📝
+4. **Submit** a Pull Request with a clear summary 🚀
+
+---
+
+## 💖 Support & Community ☕
+
+If you found this curated list helpful for evaluating field service scheduling solutions or building custom dispatch systems, please consider supporting the project!
+
+- ⭐ **Star** this repository on GitHub to show your appreciation.
+- 🔄 **Share** with colleagues, dispatchers, and software developers.
+- ☕ **Sponsor / Buy me a Coffee**: Support ongoing open-source maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Field-Service-Scheduling&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Field-Service-Scheduling&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer 📜
+- This repository is a **community-curated list** for informational and educational purposes.
+- Product logos, pricing details, and market valuations are approximate based on publicly available data as of September 2026.
+- Field service management systems store critical customer and operational data; ensure appropriate data security, GDPR compliance, and legal safeguards before deploying any commercial or open-source system.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for field service leaders, dispatchers, and open-source software engineers.</b>
+</p>
