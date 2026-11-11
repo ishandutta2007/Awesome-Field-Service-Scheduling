@@ -55,6 +55,7 @@ Below is a comparison of top field service scheduling platforms, ranked by estim
 | **[FieldPulse](https://www.fieldpulse.com/)** 📲 | **~$40M Valuation** ($8M+ ARR) | $99/month (Includes 2 users) | 7-Day Free Trial (No free perpetual tier) | Full-service SMB platform, technician location tracking, schedule status boards. |
 | **[Kickserv](https://www.kickserv.com/)** 📋 | **~$20M Valuation** ($5M+ ARR) | $47/month (Starter plan) | **Free Forever Plan** (Up to 2 users, basic scheduling) | Simple scheduling, job management, customer portal, contractor dispatcher. |
 | **[ReachOut](https://www.reachoutfs.com/)** 🗺️ | **~$10M Valuation** ($2M+ ARR) | $10/user/month | **Free Forever Plan** (Up to 3 users, core dispatching) | Affordable FSM solution, mobile form inspection, status visibility, map scheduling. |
+| **[Genaya](https://genaya.com/)** 🧠 | Early-stage, private | $99/month (per organization) | 14-Day Free Trial (No free perpetual tier) | All-in-one for service businesses: scheduling and dispatch, online booking pages, CRM, estimates, invoices and card payments, an AI phone receptionist that books jobs, iOS and Android apps. |
 
 ---
 
